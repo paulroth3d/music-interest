@@ -641,7 +641,7 @@
     <stringNumberFrameRound>0</stringNumberFrameRound>
     <stringNumberFrameFgColor r="0" g="0" b="0" a="255"/>
     <stringNumberFrameBgColor r="255" g="255" b="255" a="0"/>
-    <stringNumberOffset x="0" y="4"/>
+    <stringNumberOffset x="0" y="0"/>
     <longInstrumentFontFace>Edwin</longInstrumentFontFace>
     <longInstrumentFontSize>10</longInstrumentFontSize>
     <longInstrumentLineSpacing>1</longInstrumentLineSpacing>
