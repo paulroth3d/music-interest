@@ -3,13 +3,13 @@
   <Style>
     <pageWidth>8.5</pageWidth>
     <pageHeight>11</pageHeight>
-    <pagePrintableWidth>7.94882</pagePrintableWidth>
-    <pageEvenLeftMargin>0.275591</pageEvenLeftMargin>
-    <pageOddLeftMargin>0.275591</pageOddLeftMargin>
-    <pageEvenTopMargin>0.275591</pageEvenTopMargin>
-    <pageEvenBottomMargin>0.275591</pageEvenBottomMargin>
-    <pageOddTopMargin>0.275591</pageOddTopMargin>
-    <pageOddBottomMargin>0.275591</pageOddBottomMargin>
+    <pagePrintableWidth>7.39764</pagePrintableWidth>
+    <pageEvenLeftMargin>0.551181</pageEvenLeftMargin>
+    <pageOddLeftMargin>0.551181</pageOddLeftMargin>
+    <pageEvenTopMargin>0.551181</pageEvenTopMargin>
+    <pageEvenBottomMargin>0.551181</pageEvenBottomMargin>
+    <pageOddTopMargin>0.551181</pageOddTopMargin>
+    <pageOddBottomMargin>0.551181</pageOddBottomMargin>
     <pageTwosided>1</pageTwosided>
     <staffUpperBorder>7</staffUpperBorder>
     <staffLowerBorder>7</staffLowerBorder>
@@ -485,7 +485,7 @@
     <autoplaceHairpinDynamicsDistance>0.5</autoplaceHairpinDynamicsDistance>
     <dynamicsPlacement>1</dynamicsPlacement>
     <dynamicsPosAbove x="0" y="-1.5"/>
-    <dynamicsPosBelow x="0" y="2.5"/>
+    <dynamicsPosBelow x="0" y="0"/>
     <dynamicsMinDistance>0.5</dynamicsMinDistance>
     <autoplaceVerticalAlignRange>2</autoplaceVerticalAlignRange>
     <textLinePlacement>0</textLinePlacement>
